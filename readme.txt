@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: lonalore
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PQYDBAMQ3D2UG
-Tags: website, screenshot, full-page, media
+Tags: website, screenshot, full-page screenshot
 Requires at least: 3.5
 Tested up to: 4.2
 Stable tag: trunk
@@ -15,6 +15,8 @@ This plugin creates a website screenshot using only a website URL and save into 
 This plugin creates a website screenshot using only a website URL and save into your own wordpress media library.
 
 After creating the image, wordpress will prompt you either to "insert into post" or "change attributes" just like after you upload an image. Renaming is available.
+
+The plugin requires a free or paid account from CaptureMyPage (http://capturemypage.com), who is the service provider.
 
 == Installation ==
 
